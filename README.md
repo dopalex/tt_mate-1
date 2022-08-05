@@ -1,4 +1,4 @@
-# Url-shorter
+# Library Application
 
 ## Descriptions
 This is a simple implementation of a library application, created using Spring Boot, SQL database, REST principles and supports CRUD operations. All data is displayed to user in JSON format.
